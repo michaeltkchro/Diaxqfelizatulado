@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector("#yesBtn");
 
 yesBtn.addEventListener("click", function () {
-    alert("AMOR ya lo eres y x siempre lo serás taq feliz día p mi niña hemolsa de mi corazón xd te quiero ctmr y si mi amor yo más")
+    alert("AMOR desde el día que respondiste que sí voluntariamente xd lo eres y x siempre lo serás taq feliz día p mi niña hemolsa de mi corazón xd te quiero ctmr y si  amor yo más")
 });
 
 const noBtn= document.querySelector("#noBtn");
